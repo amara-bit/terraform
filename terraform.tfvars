@@ -1,0 +1,5 @@
+region        = "us-east-1"
+ami           = "ami-0b5eea76982371e91"
+key_name      = "aws-ec2-demo"
+instance_type = "t2.micro"
+name          = "terraform-demo"
